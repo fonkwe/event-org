@@ -24,7 +24,7 @@ export default function Tickets() {
               <a href="#tickets" class="btn btn-primary">Get Ticket</a>
             </div>
         </div>
-        <div class="card">
+        <div class="card menu">
             <div class="card-body">
               <h5 class="card-title">Musics Events</h5>
               <p class="card-text">Browse throught Our Musics Events to Book your Ticket</p>
