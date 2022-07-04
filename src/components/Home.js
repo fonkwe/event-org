@@ -13,7 +13,7 @@ export default function Home() {
               in minutes. With us, event organizers can sell directly from their own website using 
              widgets, or use our customizable, dedicated event page.
             </p>
-           <button type="button" class="btn btn-primary btn-lg">Create Event</button>
+           <button type="button" class="btn btn-primary btn-lg"><a href="#tickets">Create Event</a></button>
         
           </div>
           
