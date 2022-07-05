@@ -42,7 +42,7 @@ function About() {
     <div class="card">
       <img src={man2}alt="John" width ={100} />
       <div class="container">
-        <h2>John Doe</h2>
+        <h2>John mike</h2>
         <p class="title">Designer</p>
         <p>Incharge of Designs</p>
         <p>john@example.com</p>
